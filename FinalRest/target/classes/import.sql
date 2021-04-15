@@ -1,0 +1,10 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Leonardo', 'Monsalvo', 'leonardomoc98@gmaiil.com', '2018-01-29');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Juan', 'Monsalvo', 'juan@gmaiil.com', '2018-05-29');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Reynaldo', 'Monsalvo', 'reynaldo@gmaiil.com', '2018-04-29');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Marta', 'Monsalvo', 'marta@gmaiil.com', '2018-05-29');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Javier', 'Rosado', 'jac@gmaiil.com', '2018-06-29');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Deku', 'Midoriya', 'dek@gmaiil.com', '2018-06-29');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Kacchan', 'Katski', 'kac@gmaiil.com', '2018-06-29');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Kirishina', 'Hierro', 'Kr@gmaiil.com', '2018-06-29');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Todoroki', 'Shoto', 'tod@gmaiil.com', '2018-06-29');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES('Endeavor', 'Shoto', 'End  @gmaiil.com', '2018-06-29');
